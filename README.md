@@ -1,2 +1,2 @@
 # Amazon-clone
-First repos
+First project solely based on html and css
